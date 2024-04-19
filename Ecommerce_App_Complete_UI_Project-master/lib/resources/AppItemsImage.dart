@@ -1,0 +1,33 @@
+class AppItemImage {
+  static const String fruitLemon = 'assets/fruit/lemon.png';
+  static const String fruitLemon1 = 'assets/fruit/lemon1.png';
+  static const String fruitLemon2 = 'assets/fruit/lemon2.png';
+  static const String fruitApple = 'assets/fruit/apple.png';
+  static const String fruitApple2 = 'assets/fruit/apple2.png';
+  static const String fruitStrawberry = 'assets/fruit/strawberry.png';
+  static const String fruitStrawberry2 = 'assets/fruit/strawberry2.png';
+  static const String fishCrab = 'assets/fish/crab.png';
+  static const String fishCrab2 = 'assets/fish/crab2.png';
+  static const String fishSlicedFish = 'assets/fish/slicedFish.png';
+  static const String fishSlicedFish2 = 'assets/fish/slicedFish2.png';
+  static const String fishStack = 'assets/fish/stackFish.png';
+  static const String fishStack2 = 'assets/fish/stackFish2.png';
+  static const String fishqueueFish = 'assets/fish/queueFish.png';
+  static const String fishqueueFish2 = 'assets/fish/queueFish2.png';
+  static const String beefMeatChopped = 'assets/meat/meatChopped.png';
+  static const String beefMeatChopped2 = 'assets/meat/meatChopped2.png';
+  static const String beefMeatSteak = 'assets/meat/meatSteak.png';
+  static const String beefMeatSteak2 = 'assets/meat/meatSteak2.png';
+  static const String beefMeatSteak3 = 'assets/meat/meatSteak3.png';
+  static const String chickenGroundedMeat = 'assets/meat/groundedmeat.png';
+  static const String chickenGroundedMeat2 = 'assets/meat/groundedmeat1.png';
+  static const String chickenLolipop = 'assets/meat/chickenLolipop.png';
+  static const String chickenLolipop2 = 'assets/meat/chickenLolipop2.png';
+  static const String vegGarlic = 'assets/vegetable/garlic.png';
+  static const String vegGarlic2 = 'assets/vegetable/garlic2.png';
+  static const String vegOnion = 'assets/vegetable/onion.png';
+  static const String vegOnion2 = 'assets/vegetable/onion2.png';
+  static const String vegOnion3 = 'assets/vegetable/onion3.png';
+  static const String vegTomato = 'assets/vegetable/tomatoes.png';
+  static const String vegTomato2 = 'assets/vegetable/tomatoes2.png';
+}
